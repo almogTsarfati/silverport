@@ -1,0 +1,6 @@
+*.md
+.git
+.gitignore
+helm/
+*.pyc
+__pycache__/
